@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "design-taste-frontend": {
+      "source": "leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/taste-skill/SKILL.md",
+      "computedHash": "53590ee9325bee34d7888bf0d81bd3941a108b1e7850df46802d93104e3f2b90"
+    },
+    "img2threejs": {
+      "source": "img2threejs/img2threejs",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "cc7227efeed4e92ebf265b39e91b8f1a0c62267fbf9eb0366ce6a436c7871fb4"
+    },
+    "impeccable": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/impeccable/SKILL.md",
+      "computedHash": "360e07353a25592d7dd13873bda386b9a13ba13294fcc5eeedec93a8ee540765"
+    },
+    "playwright-cli": {
+      "source": "microsoft/playwright-cli",
+      "sourceType": "github",
+      "skillPath": "skills/playwright-cli/SKILL.md",
+      "computedHash": "d4983e06b5daae441e48604b4b813a0c38784f3d87ea58f8391d2b5ffeb803fd"
+    }
+  }
+}
