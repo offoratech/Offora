@@ -4,6 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/site/',
+  // GitHub Pages serves this repo at offoratech.github.io/Offora/
+  base: '/Offora/',
   plugins: [react(), tailwindcss()],
 })
